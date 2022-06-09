@@ -1,0 +1,76 @@
+[33mcommit 3cc30fea9bdaef314c6a3827e6e0093c4dc6b530[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 14:27:05 2022 +0300
+
+    put here another one
+
+[33mcommit fca9c3526bf0b09525945462fc4f451b331b50b8[m
+Merge: 6c35606 a6f0940
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 14:10:30 2022 +0300
+
+    Merge branch 'main' of github.com:OlegiZolen/GitDemoWithEpam
+    
+    # Conflicts:
+    #       blah.txt.txt
+
+[33mcommit 6c356067fe75359c84995b4149f51d1cf20af324[m
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 13:18:53 2022 +0300
+
+    123 nhek
+
+[33mcommit a6f094000f5bcac7738b77199d278ada70e647d7[m
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 13:18:53 2022 +0300
+
+    123
+
+[33mcommit 4a1c456ea8f158208bd4c171fdcba29f73320eaf[m
+Author: Olegi Zoln <106239915+OlegiZolen@users.noreply.github.com>
+Date:   Thu Jun 9 12:50:02 2022 +0300
+
+    Update blah.txt.txt
+
+[33mcommit 8ccfc5942070e44afbc1c0b311a6b6f5eaac6d19[m
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 12:47:29 2022 +0300
+
+    something wrong with this page
+
+[33mcommit b08dfca8268e49bafc2b299222555e2a9b59caef[m
+Merge: 78c5c19 559d774
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 12:42:41 2022 +0300
+
+    try again
+
+[33mcommit 78c5c199812c4f0b07438222d6bf3820a130a412[m
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Thu Jun 9 12:39:17 2022 +0300
+
+    commit the bit
+
+[33mcommit 559d774b569a58024287642f89e02ef3c6289b5c[m
+Author: Olegi Zoln <106239915+OlegiZolen@users.noreply.github.com>
+Date:   Thu Jun 9 12:36:23 2022 +0300
+
+    Update blah.txt.txt
+
+[33mcommit cebefbe6dbd109600ff9177f96ec60ca797cc584[m
+Author: Olegi Zoln <106239915+OlegiZolen@users.noreply.github.com>
+Date:   Thu Jun 9 12:03:32 2022 +0300
+
+    Update blah.txt.txt
+
+[33mcommit 4e64529174dddf83699bc5dd73fd2f35b639389d[m
+Author: Olegi Zoln <thatcat911@gmail.com>
+Date:   Wed Jun 8 16:36:39 2022 +0300
+
+    add first 2 lines in the song
+
+[33mcommit ba99c20feacfff67e3a8047ebc13b291b9e8513d[m
+Author: Olegi Zoln <106239915+OlegiZolen@users.noreply.github.com>
+Date:   Wed Jun 8 15:43:14 2022 +0300
+
+    Initial commit
