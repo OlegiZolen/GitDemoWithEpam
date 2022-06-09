@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 song 1
 song 2
+=======
+common people now
+1
+
+3
+////////////////////////
+ghcjnjt
+v
+>>>>>>> a6f094000f5bcac7738b77199d278ada70e647d7
